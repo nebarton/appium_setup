@@ -26,3 +26,6 @@ Use these instructions to configure your local environment to run Appium Automat
 
 ## Tips for Setting Up Desired Capabilities
 1. A file method is used to map to the .apk file. To properly use this method, please place the target apk file(s) in the source folder and change the name of the file in the file method.
+
+## Other Tips
+1. Sample iOS App: https://github.com/appium/ios-uicatalog
